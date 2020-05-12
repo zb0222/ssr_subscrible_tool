@@ -1,65 +1,21 @@
-#直播专线木马189
-trojan://4548@www.zhanan03.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan189
+#直播snell189
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEtzMk1sU0JYQXQxS1ZJ@47.56.170.189:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell189
 
-#直播专线木马170
-trojan://4779@www.zhanan02.win:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan170
+#直播snell170
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQTjNTVmViM01haEJ5VEx0@47.91.252.170:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell170
 
-#高级直播专线Snell137
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRbmc4MGVONHdiRTlPcm5D@47.91.215.137:13333?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell137
+#直播v2r189
+vmess://YXV0bzo1NDE2ZGY2YS0xODI2LTQwMTctYTk4My0zOWNlZmNjNDg0MDdANDcuNTYuMTcwLjE4OTo0NTc5Ng?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r189&obfs=none
 
-#高级直播专线Snell48
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsczBpYlVva2V3QVBOaUk1@47.56.183.48:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFSnell48
+#直播v2r170
+vmess://YXV0bzpjYjc5MjE3Ny1iMGNmLTRmNGMtYmRkZi1jNmQ1MDIwNzUxODFANDcuOTEuMjUyLjE3MDo0ODgyNQ?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r170&obfs=none
 
-#高级直播专线Snell188
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WHlHVFVXRmx2SXlvbTly@www.smyun08.top:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell188
+#直播ss189
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZGZqb3dld2VyQDQ3LjU2LjE3MC4xODk6MzM3Nzg#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFss189
 
-#高级直播专线Snell63
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQWWo5ZHF4WnRBZnAyb1Q2@47.56.211.63:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell63
+#直播ss170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkc2ZzZGVANDcuOTEuMjUyLjE3MDoyNjc4MQ#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFss170
 
-#高级直播专线Snell118
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM3hTSGFSbzRnb2k2QVJI@47.52.148.118:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell118
-
-#高级直播专线Snell241
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2NlVFNSc1E1ekRnZ1ZZ@47.89.15.241:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20snell241
-
-#高级直播专线Snell180
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaSXFHUDVWMnhHcjZpeWpM@47.52.21.180:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20snell180
-
-#高级直播专线木马137
-trojan://boo123456@www.xinxinaa.icu:443#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%E6%9C%A8%E9%A9%AC137
-
-#高级直播专线木马188
-trojan://10104@www.smyun08.top:443?allowInsecure=1#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%E6%9C%A8%E9%A9%AC188
-
-#高级直播专线木马63
-trojan://44777@www.zhanan.men:443#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%E6%9C%A8%E9%A9%AC63
-
-#高级直播专线v2r241
-vmess://YXV0bzpkZDhkOWYxMC03MGQxLTQ3NzEtYTQ3Zi0xMmI2NmYwZTNiYWRANDcuODkuMTUuMjQxOjE1MTI1?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r241&obfsParam=www.baidu.com&obfs=http
-
-#高级直播专线v2r180
-vmess://YXV0bzpjZDEyODc4Ni0yMjMzLTQwMWUtYTdhNS1hM2EyODM0NmZmNGRANDcuNTIuMjEuMTgwOjE3MTI1?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r180&obfsParam=www.baidu.com&obfs=http
-
-#高级直播专线v2r48
-vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNANDcuNTYuMTgzLjQ4OjMzNTU4?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r48&obfs=none
-
-#高级直播专线v2r118
-vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNANDcuNTIuMTQ4LjExODoyNDQyMg?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r118&obfs=none
-
-#高级直播专线v2r146
-vmess://YXV0bzplZWJkNDhlMy1hNmUwLTRjYjktYWI1MS1iMjFhYWE3ZTVlYjlANDcuNTYuMTI5LjE0Njo0ODYxMg?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFv2r146&obfs=none
-
-#高级直播专线ss48
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cHdkQDQ3LjU2LjE4My40ODoyMjI0NA#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20ss48
-
-#高级直播专线ss118
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cHdkQDQ3LjUyLjE0OC4xMTg6MjU4OTk#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20ss118
-
-#高级直播专线ss180
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ODg4QDQ3LjUyLjIxLjE4MDoxODg1NA#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFss180
-
-#高级直播专线ss241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NDQ0QDQ3Ljg5LjE1LjI0MToxNzc3OA#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFss241
 
 
 
