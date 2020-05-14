@@ -1,3 +1,12 @@
+#直播trojan118
+trojan://wgdJSy3xxPL5Djbu@www.zhanan06.xyz:4646?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan118
+
+#直播trojan241
+trojan://sadfaasdasd@www.zhanan07.site:2344?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan241
+
+#直播trojan180
+trojan://rLkYsmtkGAz6DMTG@www.zhanan08.online:8665?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan180
+
 #直播snell172
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc0RpR203c0V4Z0prZWoz@www.zhanan05.fun:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell172
 
@@ -27,6 +36,24 @@ vmess://YXV0bzo1NDE2ZGY2YS0xODI2LTQwMTctYTk4My0zOWNlZmNjNDg0MDdANDcuNTYuMTcwLjE4
 
 #直播v2r170
 vmess://YXV0bzpjYjc5MjE3Ny1iMGNmLTRmNGMtYmRkZi1jNmQ1MDIwNzUxODFANDcuOTEuMjUyLjE3MDo0ODgyNQ?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r170&obfs=none
+
+#直播v2r118
+vmess://YXV0bzpmYjc3MTE5My1mN2Q2LTQ3YjYtOGUzMi0zYWJmZDJiMTA4YTNAd3d3LnpoYW5hbjA2Lnh5ejoyMTU5OQ?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r118&obfs=none
+
+#直播v2r241
+vmess://YXV0bzo3ZjYwMzBmMC0xOGUxLTQ5YmEtODFiNy05YTA0ZTlkYWFkNDJAd3d3LnpoYW5hbjA3LnNpdGU6MzM4NzU?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r241&obfs=none
+
+#直播v2r180
+vmess://YXV0bzpmMzgxNGExMC05ZmJmLTQyNWItYWY2OS0wM2YwYzk4YzQzMzRAd3d3LnpoYW5hbjA4Lm9ubGluZTo2Mzk4NA?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r180&obfs=none
+
+#直播ss118
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzemRmd2VAd3d3LnpoYW5hbjA2Lnh5ejo0MDI2NA#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFss118
+
+#直播ss241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnamhmZ2pmQHd3dy56aGFuYW4wNy5zaXRlOjU1NTM3#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFss241
+
+#直播ss180
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMzQyMzRAd3d3LnpoYW5hbjA4Lm9ubGluZTo2MDU0NA#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFss180
 
 #直播ss189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzZGZqb3dld2VyQDQ3LjU2LjE3MC4xODk6MzM3Nzg#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFss189
