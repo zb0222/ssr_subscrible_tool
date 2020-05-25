@@ -1,3 +1,9 @@
+#直播snel146
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbUVsbEFXNVJKMlhoZVMw@www.zhanan07.site:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell146
+
+#直播snel189
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcW40Q1F3M1d5WGxXbml3@47.56.170.189:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell189
+
 #直播trojan170
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUHRGQWhCYXZERkM0aFJs@47.91.252.170:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell170
 
