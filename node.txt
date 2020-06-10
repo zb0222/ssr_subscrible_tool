@@ -1,13 +1,22 @@
+#直播trojan78
+trojan://weGukbB6zxhA8QQP@www.zhanan14.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan78
+
+#直播trojan153
+trojan://ZKTxYp6LRxc2c1xd@www.zhanan13.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan153
+
+#直播snel178
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cXVpRVppcTVadUdZOFQ1@www.zhanan14.icu:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell78
+
+#直播snel1153
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLWGgyMmk3V2ZJdTRkMVJx@www.zhanan13.bid:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell153
+
 #直播snel1223
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRWR0NUwzYzBWelhncGl3@www.zhanan12.site:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell223
 
 #直播trojan223
 trojan://hWySdWbIoUos3YyA@www.zhanan12.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan223
 
-#直播snel146
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbUVsbEFXNVJKMlhoZVMw@www.zhanan07.site:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell146
-
-#直播snel189
+#直播snell189
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcW40Q1F3M1d5WGxXbml3@47.56.170.189:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell189
 
 #直播trojan170
@@ -19,12 +28,6 @@ trojan://hTldI0z59Hvh05SP@www.zhanan09.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%A
 #直播trojan188
 trojan://6dy1u6k3lZh2uKLA@www.zhanan10.top:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan188
 
-#直播trojan48
-trojan://y8qs3HVVb0OxdxD3@www.zhanan11.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan48
-
-#直播trojan118
-trojan://wgdJSy3xxPL5Djbu@www.zhanan06.xyz:4646?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan118
-
 #直播snell74
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCem5mM0t5clY3ek4zM3NO@www.zhanan04.icu:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell74
 
@@ -34,8 +37,11 @@ trojan://tp5u661MvTF710Qb@www.zhanan05.fun:443?allowInsecure=1#%E7%9B%B4%E6%92%A
 #直播trojan74
 trojan://9hqPvbpKDs20PoRK@www.zhanan04.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan74
 
-#直播v2r48
-vmess://YXV0bzpjNDQzYWE4ZC04MWM0LTRjZjctYTgwNC02OWZjYjE5YmRiOWFANDcuNTYuMTgzLjQ4OjM0NDc4?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r48&obfs=none
+#直播v2r189
+vmess://YXV0bzphMzIyMmNiMS1hZWJlLTQzMTgtYmM1My1hYmRlYzVkOGIyM2VANDcuNTYuMTcwLjE4OTo2MzE0MQ?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r189&obfs=none
+
+#直播v2r153
+vmess://YXV0bzoyZTY2MmM3OS1lNzFhLTQ2YmEtOTJlOC0yODI1ZDVmMWMyODNAOC4yMTAuOTcuMTUzOjM0ODU3?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r153&obfs=none
 
 #直播v2r63
 vmess://YXV0bzowMTE3OTEwYS1mYjRkLTRjNTAtYWI3OS1hOWEwNTM1ZWExYmNANDcuNTYuMjExLjYzOjQ0Mjkw?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r63&obfs=none
