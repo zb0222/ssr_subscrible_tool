@@ -25,9 +25,6 @@ snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRWR0NUwzYzBWelhncGl3@www.zhanan12.site:1
 #直播trojan223
 trojan://hWySdWbIoUos3YyA@www.zhanan12.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan223
 
-#直播snell189
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcW40Q1F3M1d5WGxXbml3@47.56.170.189:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell189
-
 #直播trojan63
 trojan://hTldI0z59Hvh05SP@www.zhanan09.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan63
 
