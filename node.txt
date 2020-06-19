@@ -1,3 +1,9 @@
+#直播trojan170
+trojan://77444555@www.zhanan02.win:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC170
+
+#直播trojan189
+trojan://788899@www.smyun08.top:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC189
+
 #直播trojan172
 trojan://tp5u661MvTF710Qb@www.zhanan05.fun:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan172
 
