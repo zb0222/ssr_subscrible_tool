@@ -1,3 +1,9 @@
+#直播trojan162
+trojan://K4yFGVEbroyoUaLa@www.hzy04.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC162
+
+#直播trojan51
+trojan://01mp65m7DlYAkVv4@www.hzy03.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC51
+
 #直播trojan74
 trojan://I5ePR04ZXIyOQgqO@www.zhanan03.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC74
 
@@ -24,9 +30,6 @@ trojan://tp5u661MvTF710Qb@www.zhanan05.fun:443?allowInsecure=1#%E7%9B%B4%E6%92%A
 
 #直播trojan153
 trojan://ZKTxYp6LRxc2c1xd@www.zhanan13.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan153
-
-#直播trojan170
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUUHRGQWhCYXZERkM0aFJs@47.91.252.170:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell170
 
 #直播trojan78
 trojan://weGukbB6zxhA8QQP@www.zhanan14.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan78
