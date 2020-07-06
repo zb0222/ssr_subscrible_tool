@@ -1,3 +1,21 @@
+#直播trojan195
+trojan://LqBVRZJxaZ01nMcG@www.zx03.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC195
+
+#直播trojan234
+trojan://OXoPgfajAk3dZEz8@www.zx01.xyz:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC234
+
+#直播trojan6
+trojan://jPHczd9PeP2ie7Bc@www.zx02.top:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC6
+
+#直播trojan123
+trojan://dp3TUFqlvkmsttmM@www.zx04.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC123
+
+#直播trojan24
+trojan://GXfGyj3Ezr3IcuCU@www.zx05.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC24
+
+#直播trojan220
+trojan://ohpXzw6A19dPqyAt@www.zx06.top:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC220
+
 #直播trojan162
 trojan://K4yFGVEbroyoUaLa@www.hzy04.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC162
 
