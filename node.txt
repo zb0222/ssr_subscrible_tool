@@ -55,14 +55,9 @@ snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRWR0NUwzYzBWelhncGl3@www.zhanan12.site:1
 #直播trojan223
 trojan://hWySdWbIoUos3YyA@www.zhanan12.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan223
 
-#直播trojan63
-trojan://hTldI0z59Hvh05SP@www.zhanan09.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan63
-
 #直播v2r153
 vmess://YXV0bzoyZTY2MmM3OS1lNzFhLTQ2YmEtOTJlOC0yODI1ZDVmMWMyODNAOC4yMTAuOTcuMTUzOjM0ODU3?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r153&obfs=none
 
-#直播v2r63
-vmess://YXV0bzowMTE3OTEwYS1mYjRkLTRjNTAtYWI3OS1hOWEwNTM1ZWExYmNANDcuNTYuMjExLjYzOjQ0Mjkw?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r63&obfs=none
 
 
 
