@@ -16,9 +16,6 @@ trojan://22e3Dug6uu4yk2rv@www.zx12.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E
 #致安云159
 trojan://m460zWjpspXlSN5D@www.zx08.party:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF159
 
-#U27
-trojan://hjdkGIqaSney2hLj@www.zhanan20.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF27
-
 #闲126
 trojan://3IEpnplUpBQDIJoM@www.zx11.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF126
 
