@@ -31,14 +31,8 @@ trojan://3IEpnplUpBQDIJoM@www.zx11.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7
 #卷213
 trojan://pOGYlUCrkbQchpxm@www.zx11.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF213
 
-#102
-trojan://YeFABINqfaZgPJES@www.zx09.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF102
-
 #208
 trojan://0f6TnsB8PwqITHHU@www.zx11.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF208
-
-#166
-trojan://777555888@www.hzy5.win:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF166
 
 #旧153
 trojan://ZKTxYp6LRxc2c1xd@www.zhanan13.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan153
@@ -58,17 +52,11 @@ snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRWR0NUwzYzBWelhncGl3@www.zhanan12.site:1
 #旧223
 trojan://hWySdWbIoUos3YyA@www.zhanan12.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan223
 
-#216
-trojan://oiRpisDpZu8tqSyN@www.zhanan16.date:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF216
-
 #112
 trojan://przfkRPOluLKLULQ@www.zhanan19.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF112
 
 #111
 trojan://bvHqB7toqU3xWXS3@www.zhanan18.date:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF111
-
-#14
-trojan://TYQklQ9XketkSLc5@www.zhanan17.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF14
 
 #直播trojan195
 trojan://LqBVRZJxaZ01nMcG@www.zx03.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC195
@@ -84,9 +72,6 @@ trojan://ohpXzw6A19dPqyAt@www.zx06.top:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7
 
 #直播trojan162
 trojan://K4yFGVEbroyoUaLa@www.hzy04.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC162
-
-#直播trojan51
-trojan://01mp65m7DlYAkVv4@www.hzy03.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC51
 
 #直播v2r153
 vmess://YXV0bzoyZTY2MmM3OS1lNzFhLTQ2YmEtOTJlOC0yODI1ZDVmMWMyODNAOC4yMTAuOTcuMTUzOjM0ODU3?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r153&obfs=none
