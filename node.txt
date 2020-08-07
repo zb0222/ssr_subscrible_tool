@@ -41,9 +41,6 @@ trojan://3IEpnplUpBQDIJoM@www.zx11.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7
 #卷213
 trojan://pOGYlUCrkbQchpxm@www.zx11.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF213
 
-#208
-trojan://0f6TnsB8PwqITHHU@www.zx11.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF208
-
 #旧223
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRWR0NUwzYzBWelhncGl3@www.zhanan12.site:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell223
 
@@ -56,8 +53,8 @@ trojan://GXfGyj3Ezr3IcuCU@www.zx05.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E
 #直播trojan162
 trojan://K4yFGVEbroyoUaLa@www.hzy04.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC162
 
-#旧v2r153
-vmess://YXV0bzoyZTY2MmM3OS1lNzFhLTQ2YmEtOTJlOC0yODI1ZDVmMWMyODNAOC4yMTAuOTcuMTUzOjM0ODU3?remarks=%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFv2r153&obfs=none
+#直播trojan208
+trojan://0f6TnsB8PwqITHHU@www.zx11.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF208
 
 
 
