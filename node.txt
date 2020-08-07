@@ -44,18 +44,6 @@ trojan://pOGYlUCrkbQchpxm@www.zx11.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7
 #208
 trojan://0f6TnsB8PwqITHHU@www.zx11.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF208
 
-#旧153
-trojan://ZKTxYp6LRxc2c1xd@www.zhanan13.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan153
-
-#旧78
-trojan://weGukbB6zxhA8QQP@www.zhanan14.icu:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan78
-
-#旧78
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cXVpRVppcTVadUdZOFQ1@www.zhanan14.icu:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell78
-
-#旧153
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLWGgyMmk3V2ZJdTRkMVJx@www.zhanan13.bid:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell153
-
 #旧223
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRWR0NUwzYzBWelhncGl3@www.zhanan12.site:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell223
 
