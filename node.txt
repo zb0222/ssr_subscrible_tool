@@ -35,15 +35,11 @@ trojan://659oJZQPm1vJnQOu@www.zx10.top:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7
 #卷203
 trojan://S9bfKIAVPrQ1xM1K@www.zx14.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF203
 
-#卷24
-trojan://OkRkQa4M4SY7j6w6@www.zx14.date:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF24
-
 #卷218
 trojan://JUo3psofDo0PUhk7@www.zx13.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF218
 
 #卷19
-trojan://AxD8NLxDmIB3RJZ1@www.zx13.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF19
-
+#trojan://AxD8NLxDmIB3RJZ1@www.zx13.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF19
 #卷181
 #trojan://p4WvUL7MKRu03wKj@www.zx13.date:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF181
 #卷223
@@ -52,8 +48,8 @@ trojan://AxD8NLxDmIB3RJZ1@www.zx13.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E
 #trojan://hrLa1Ot3CMO9eUgc@www.zx14.bid:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF241
 #卷239
 #trojan://U5G2fBkv5KpqpPB3@www.zx13.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF239
-#致安云159
-#trojan://m460zWjpspXlSN5D@www.zx08.party:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF159
+#卷24
+#trojan://OkRkQa4M4SY7j6w6@www.zx14.date:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF24
 
 
 #直播trojan24
