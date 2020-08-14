@@ -56,13 +56,6 @@ trojan://AxD8NLxDmIB3RJZ1@www.zx13.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E
 #trojan://m460zWjpspXlSN5D@www.zx08.party:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF159
 
 
-
-#旧223
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRWR0NUwzYzBWelhncGl3@www.zhanan12.site:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFsnell223
-
-#旧223
-trojan://hWySdWbIoUos3YyA@www.zhanan12.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan223
-
 #直播trojan24
 trojan://GXfGyj3Ezr3IcuCU@www.zx05.loan:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC24
 
