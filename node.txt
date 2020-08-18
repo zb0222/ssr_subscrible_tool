@@ -1,3 +1,8 @@
+#73企鹅snell
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWeVJDR0podmVOUkM4bHJa@103.135.101.73:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF73
+
+#22企鹅snell
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNGFNY3drbndnN1o2RzNL@156.96.106.22:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF22
 
 #148企鹅snell
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOWlSQVpLakdIYmlBcVo0@143.92.44.148:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF148
