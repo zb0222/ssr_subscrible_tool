@@ -28,12 +28,6 @@ snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVkROcXhIcnE5RlRwM2lF@143.92.47.96:13254?
 #卷140
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWllxek81dThTZXY5UkY5@103.200.112.140:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF140
 
-#卷242
-trojan://0Th0Tpr1LFw4ks7v@www.zx14.win:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF242
-
-#卷210
-trojan://659oJZQPm1vJnQOu@www.zx10.top:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF210
-
 #直播111
 trojan://bvHqB7toqU3xWXS3@www.zhanan18.date:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%A6%99%E6%B8%AF111
 
