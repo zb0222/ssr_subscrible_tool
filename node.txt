@@ -1,3 +1,6 @@
+#轻4T 50
+trojan://YK1pOpXrgWaP8hPu@www.zx14.men:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF50
+
 #卷216
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRExsVWZRSE1xaG5LcDVx@103.200.112.216:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF216
 
