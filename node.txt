@@ -1,3 +1,12 @@
+＃146企鹅2t
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySm10c3dmVW5WTXdWQWd2@45.154.197.146:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF146
+
+＃153企鹅2t
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqN2RFZnFDWlhIMEpmZGJV@45.154.197.153:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF153
+
+＃145企鹅2t
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbDliOXZUY2xweDFzWVA4@45.154.197.145:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF145
+
 ＃卷181
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxT0FXTHJpYlloOHhob2dM@103.200.112.181:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF181
 
