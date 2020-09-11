@@ -40,9 +40,6 @@ trojan://8Tk6krqXoftP6w4H@www.zx13.loan:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF
 #卷26
 trojan://eySDPDy800JphrVa@www.zx13.win:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC26
 
-#卷137
-trojan://gSYuJ873aq1PDlEW@www.zx13.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E6%9C%A8%E9%A9%AC137
-
 #卷216
 #snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRExsVWZRSE1xaG5LcDVx@103.200.112.216:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF216
 
