@@ -10,20 +10,8 @@ trojan://p8Cc5SjuPXJi3nrJ@www.zhanan11.site:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B
 #卷251
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCakVMWkl4TDNrSHhLdlFq@103.200.112.251:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF251
 
-#卷216
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVHl5VE13WjRKM0pCTHkx@103.200.112.216:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF216
-
 #卷255
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRmpxNUNWNHZnWDhpSHpY@103.200.112.255:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF255
-
-＃136企鹅2t
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WlNqUXhrTHM3UFZoY0l0@45.154.197.136:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF136
-
-＃146企鹅2t
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySm10c3dmVW5WTXdWQWd2@45.154.197.146:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF146
-
-＃145企鹅2t
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbDliOXZUY2xweDFzWVA4@45.154.197.145:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF145
 
 ＃卷181
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxT0FXTHJpYlloOHhob2dM@103.200.112.181:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF181
