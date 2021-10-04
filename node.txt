@@ -30,5 +30,6 @@ trojan://dd774485@www.zx1.club:33569#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF36
 trojan://tt996659@www.zx2.club:22905#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF51
 trojan://ww774588@www.zx3.club:25578#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF2
 trojan://B4H4mZ961zRmdycm@www.zx07.top:443#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF140
-
+#台湾线路慎用
+vmess://YXV0bzpjZjJlOTQ2ZS03OTRmLTRhYmQtODg3Yi05MWIwYzc1MDI2NjdAZGRucy50aWt0b2tpcC54eXo6MTk0NDM?remarks=tw&path=/&obfs=none&alterId=0
 
