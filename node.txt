@@ -1,14 +1,12 @@
 #后64
 trojan://ff8855447@www.zx523.top:13994#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF64-%E5%90%8E%E5%8F%B0
 
-#后55
-trojan://dd222444@www.zx523.store:11334#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF55-2%E5%90%8E%E5%8F%B0
+#后157
+ssr://d3d3LnR0dDAxLmZpdDo1NjEzMDphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6T0RNM05EVjBkQS8_cmVtYXJrcz02YWFaNXJpdjU3cV82TGV2TVRVM0xUSGxrSTdsajdBJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+ssr://d3d3LnR0dDAxLmZpdDo1NDI3NTphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6TnpkMGRHUnlORFEvP3JlbWFya3M9NmFhWjVyaXY1N3FfNkxldk1UVTNMVExsa0k3bGo3QSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 
 
-#A皇178
-trojan://mm224456@www.zx523.fun:28837#%E9%98%BF%E9%87%8C178-%E7%9A%87%E6%9C%9D
-#皇58
-trojan://ss883737@www.zx522.site:34489#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF58-%E7%9A%87%E6%9C%9D
+
 #A艺
 trojan://ww4477699@www.zx8.club:14478#%E9%98%BF%E9%87%8C171-%E8%89%BA%E4%B8%B0
 #艺
@@ -19,8 +17,6 @@ trojan://hh555778@www.zx16.club:16635#a%E9%A6%99%E6%B8%AF92-%E8%87%BB%E5%AE%9D
 #宝
 trojan://yy775588@www.zx523.site:17736#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF145%E3%80%81%E8%87%BB%E5%AE%9D
 #A翠
-trojan://dd6637373@www.zx13.club:14482#%E9%98%BF%E9%87%8C156-%E7%8E%B2%E7%BF%A0
-#A翠
 trojan://yy338844@www.zx7.club:23884#a%E9%A6%99%E6%B8%AF134-%E7%8E%B2%E7%BF%A0
 #翠
 trojan://ff3388744@www.zzz01.club:38847#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF7-%20%E7%8E%B2%E7%BF%A0
@@ -30,10 +26,11 @@ trojan://ff3388744@www.zzz01.club:38847#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF7-%2
 
 
 #电脑
-trojan://dd774485@www.zx1.club:33569#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF36
-trojan://tt996659@www.zx2.club:22905#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF51
-trojan://ww774588@www.zx3.club:25578#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF2
+trojan://dd6637373@www.zx13.club:14482#%E9%98%BF%E9%87%8C156
+trojan://mm224456@www.zx523.fun:28837#%E9%98%BF%E9%87%8C178
 trojan://B4H4mZ961zRmdycm@www.zx07.top:443#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF140
+trojan://tt996659@www.zx2.club:22905#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF51
+
 #台慎用
 vmess://YXV0bzpjZjJlOTQ2ZS03OTRmLTRhYmQtODg3Yi05MWIwYzc1MDI2NjdAZGRucy50aWt0b2tpcC54eXo6MTk0NDM?remarks=tw&path=/&obfs=none&alterId=0
 
