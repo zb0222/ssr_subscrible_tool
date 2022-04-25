@@ -1,8 +1,12 @@
+#后51
+trojan://a06a8a08@www.zzz01.icu:27741#%E5%90%8E%E5%8F%B0%E7%BA%BF%E8%B7%AF14
+
 #后64
-trojan://ff8855447@www.zx523.top:13994#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF64-%E5%90%8E%E5%8F%B0
+trojan://ff8855447@www.zx523.top:25773#%E5%90%8E%E5%8F%B0%E7%BA%BF%E8%B7%AF64
 
 #艺
-vmess://YXV0bzpiOGNiOGZjMS02Mjk3LTRiYmYtOTVmNy03OTVhNTAxMTQ0ZDVAMTE5LjI4Ljc2LjIxNjo0ODYzMg?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF216-%E8%89%BA%E4%B8%B0&obfs=websocket&alterId=0
+vless://YXV0bzpkMDBkNzZjOC00NWFkLTQyNTUtOWRjNi1hZWVjZDkyYTBjY2JAd3d3Lnp4OC5jbHViOjE2Mzc0?remarks=a%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF171-%E8%89%BA%E4%B8%B0&path=/0a51b7c4/&obfs=websocket&tls=1
+
 
 #正
 trojan://84504165@www.zx523.site:22473#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF145-%E6%AD%A3%E5%85%B4
@@ -18,7 +22,6 @@ trojan://ff3388744@www.zzz01.club:38847#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF7-%2
 trojan://vv334442@www.zzz01.space:13326#%E7%94%B5%E8%84%91%E7%BA%BF%E8%B7%AF197
 trojan://ee8858885@www.zx522.fun:28837#%E7%94%B5%E8%84%91%E7%BA%BF%E8%B7%AF228
 trojan://B4H4mZ961zRmdycm@www.zx07.top:443#%E7%94%B5%E8%84%91%E7%BA%BF%E8%B7%AF140
-trojan://tt996659@www.zx2.club:22905#%E7%94%B5%E8%84%91%E7%BA%BF%E8%B7%AF51
 
 
 #台慎用
