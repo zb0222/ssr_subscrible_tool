@@ -2,7 +2,8 @@
 trojan://a06a8a08@www.zzz01.icu:27741#%E5%90%8E%E5%8F%B0%E7%BA%BF%E8%B7%AF14
 
 #艺
-vless://YXV0bzpkMDBkNzZjOC00NWFkLTQyNTUtOWRjNi1hZWVjZDkyYTBjY2JAd3d3Lnp4OC5jbHViOjE2Mzc0?remarks=a%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF171-%E8%89%BA%E4%B8%B0&path=/0a51b7c4/&obfs=websocket&tls=1
+vless://YXV0bzpmYWQ5ZTlhYi02MDA1LTRkM2YtOWMwZi05N2JiYTljY2RiYjhAd3d3Lnp6eHgwNC50b3A6MjQ0ODU?remarks=%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF216-%E8%89%BA%E4%B8%B0&path=/51b984c6f8d43/&obfs=websocket&tls=1
+
 
 
 #正
